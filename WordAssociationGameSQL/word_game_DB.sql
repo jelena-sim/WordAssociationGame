@@ -1,3 +1,7 @@
+DROP DATABASE IF EXISTS word_game;
+CREATE DATABASE word_game;
+USE word_game;
+
 DROP TABLE IF EXISTS words_table;
 CREATE TABLE words_table
 (

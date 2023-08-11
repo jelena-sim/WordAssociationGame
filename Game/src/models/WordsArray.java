@@ -29,7 +29,7 @@ public class WordsArray {
         words[17] = w.getD3();
         words[18] = w.getD4();
         words[19] = w.getD();
-        words[20] = w.getA1();
+        words[20] = w.getF();
     }
 
     public String[] getWords() {
